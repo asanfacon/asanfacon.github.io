@@ -1,2 +1,1 @@
-# asanfacon.github.io
-Site personnel
+Site personnel — GitHub Pages.
